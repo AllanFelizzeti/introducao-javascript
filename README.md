@@ -1,2 +1,2 @@
-# introducao-javascript
- Curso Alura
+#introducao-javascript
+💾 Projeto do Curso da Alura
