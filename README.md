@@ -1,3 +1,3 @@
 # introducao-javascript #
 
- 💾 Projeto da curso Alura
+ 💾 Projeto do curso da Alura onde crianmos as interações em JS
